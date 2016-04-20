@@ -25,3 +25,4 @@ template_*test
 make_tpl_varnames_h
 /share/
 *.pyc
+/autom4te.cache
